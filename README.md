@@ -1,2 +1,1 @@
-# Nashville_Housing
-Data cleaning using SQL
+#Nashville housing market 2013-2016 data cleaning using SQL. 
